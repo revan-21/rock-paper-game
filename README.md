@@ -39,4 +39,4 @@ A fun and interactive Rock Paper Scissors game where users play against the comp
 * Leaderboard system
 * Mobile app version
 
-![image alt]()
+![image alt](https://github.com/revan-21/rock-paper-game/blob/main/Screenshot%202026-04-20%20152820.png?raw=true)
